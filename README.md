@@ -43,23 +43,23 @@ Used to fetch and display product listings.
 
 | Screen             | Preview |
 |--------------------|---------|
-| Splash Screen      | <img src="https://github.com/marambasyone27/bootcamp_task/blob/main/screenshots/splashScreen.png" width="200"/> |
-| Onboarding Screen         | <img src="https://github.com/marambasyone27/bootcamp_task/blob/main/screenshots/onboarding.png" width="200"/> |
-| Login Screen       | <img src="https://github.com/marambasyone27/bootcamp_task/blob/main/screenshots/login%20screen.png" width="200"/> |
-| Home Screen        | <img src="https://github.com/marambasyone27/bootcamp_task/blob/main/screenshots/home%20screen.png" width="200"/> |
-| Cart Screen             | <img src="https://github.com/marambasyone27/bootcamp_task/blob/main/screenshots/cart.png" width="200"/> |
-| Product Details    | <img src="https://github.com/marambasyone27/bootcamp_task/blob/main/screenshots/product%20details.png" width="200"/> |
+| Splash Screen      | <img src="https://github.com/marambasyone27/bootcamp_task/blob/main/screenshots/splashScreen.png" width="270"/> |
+| Onboarding         | <img src="https://github.com/marambasyone27/bootcamp_task/blob/main/screenshots/onboarding.png" width="270"/> |
+| Login Screen       | <img src="https://github.com/marambasyone27/bootcamp_task/blob/main/screenshots/login%20screen.png" width="270"/> |
+| Home Screen        | <img src="https://github.com/marambasyone27/bootcamp_task/blob/main/screenshots/home%20screen.png" width="270"/> |
+| Cart               | <img src="https://github.com/marambasyone27/bootcamp_task/blob/main/screenshots/cart.png" width="270"/> |
+| Product Details    | <img src="https://github.com/marambasyone27/bootcamp_task/blob/main/screenshots/product%20details.png" width="270"/> |
 
 ---
 
 ## 🧾 App Screens Included
 
-- Splash Screen  
-- Onboarding Screen  
-- Login Screen  
-- Home Screen  
-- Product Details Screen  
-- Cart Screen  
+- ✨ Splash Screen  
+- 📝 Onboarding Screen  
+- 🔐 Login Screen  
+- 🏠 Home Screen  
+- 📦 Product Details Screen  
+- 🛒 Cart Screen  
 
 ---
 
